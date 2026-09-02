@@ -1,96 +1,126 @@
-Hi 👋, I'm Isha Karnawat
-AI/ML Developer | Full-Stack Developer | Generative AI Enthusiast
+<div align="center">
 
-I’m a Computer Science & Engineering student passionate about building practical products using Artificial Intelligence, Machine Learning, Generative AI, and Full-Stack Development.
+# Hi there, I'm Isha Karnawat 👋
+### 🤖 AI/ML Developer & Full-Stack Engineer
 
-I enjoy turning ideas into real-world applications — from healthcare AI systems and interview analysis platforms to intelligent assistants and generative AI tools.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishakarnawat)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-🚀 About Me
-🎓 B.Tech Computer Science & Engineering
-🤖 Interested in AI, Machine Learning & Deep Learning
-🌐 Building full-stack applications with modern web technologies
-🧠 Exploring LLMs, RAG, NLP, Computer Vision and AI agents
-💡 Interested in solving real-world problems through technology
-🏆 Participated in hackathons and open-source programs
-📚 Currently focused on building production-ready AI projects
+<p align="center">
+  <b>Computer Science & Engineering Student</b> passionate about building intelligent, production-ready AI applications.<br/>
+  Specializing in <b>Generative AI, Computer Vision, Speech/NLP, and Full-Stack Web Development</b>.
+</p>
 
+</div>
 
-🔥 Featured Projects
+---
 
-🧠 Alzheimer Clinical Support System
+## ⚡ Quick Snapshot
 
-An AI-powered healthcare application designed to support Alzheimer’s assessment and clinical decision-making.
+- 🎓 **Education:** B.Tech in Computer Science & Engineering
+- 🧠 **AI & ML Focus:** LLMs, RAG, Speech-to-Text (Whisper), Computer Vision (MediaPipe, OpenCV), Explainable AI (XAI)
+- 🌐 **Full-Stack Stack:** React, Vite, Tailwind CSS, Node.js, Express, FastAPI, PostgreSQL, MongoDB
+- 💡 **Philosophy:** Building practical, real-world solutions — from healthcare decision support to automated interview intelligence
+- 🏆 **Experience:** Hackathon participant & active open-source contributor
 
-Tech: React • Node.js • Express • PostgreSQL • Machine Learning • Explainable AI
+---
 
-Features:
+## 🛠️ Tech Stack & Skills
 
-Patient management
-Cognitive assessment
-MMSE / MoCA scoring
-Clinical scoring engine
-ML-based prediction
-Explainable AI
-Alzheimer’s stage prediction
-Recommendation engine
-PDF report generation
+<div align="center">
 
+### 🧠 Artificial Intelligence & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
 
-🎤 Debrief – AI Interview Analysis Platform
+### 🌐 Full-Stack Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-An AI-powered platform for analysing interviews using speech, NLP and machine learning techniques.
+### 🗄️ Databases & Developer Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-Tech: React • Vite • Tailwind CSS • Node.js • FastAPI • MongoDB • Whisper
+</div>
 
-Features:
+---
 
-Interview recording
-Speech-to-text
-NLP-based analysis
-Candidate insights
-AI-generated feedback
-Interview performance evaluation
+## 🔥 Featured Projects
 
+### 🧠 1. [Alzheimer Clinical Support System](https://github.com/Ishakarnawat)
+> *AI-powered clinical decision-support system assisting healthcare providers in cognitive assessment and Alzheimer’s stage diagnosis.*
+- **Tech Stack:** `React` • `Node.js` • `Express` • `PostgreSQL` • `Machine Learning` • `Explainable AI`
+- **Key Features:**
+  - Standardized cognitive tests (MMSE / MoCA) with automated clinical scoring engine.
+  - Explainable ML-based Alzheimer’s stage prediction with risk-factor breakdown.
+  - Comprehensive clinical recommendation engine & downloadable PDF diagnostic reports.
 
-🤖 SynthGEN – AI Fake Data Generator
+---
 
-A Generative AI application designed to generate realistic synthetic datasets for experimentation and development.
+### 🎙️ 2. [Debrief.ai — AI Video Interview & Screening Platform](https://github.com/Ishakarnawat/Debrief-ai)
+> *Asynchronous video interview screening platform with multi-modal AI proctoring, speech evaluation, and candidate ranking.*
+- **Tech Stack:** `React 18` • `Vite` • `FastAPI` • `Node.js` • `MongoDB` • `Whisper` • `MediaPipe`
+- **Key Features:**
+  - In-browser WebRTC video/audio recording with real-time speech-to-text (Whisper).
+  - STAR methodology grading, speech cadence (WPM) tracking, and filler-word detection.
+  - Computer vision attention/eye-tracking, anti-cheat proctoring, and recruiter scorecards.
 
-Tech: Google Gemini API • Python • Generative AI
+---
 
-Features:
+### 🤖 3. [SynthGEN — AI Synthetic Data Generator](https://github.com/Ishakarnawat)
+> *Generative AI platform designed to generate high-fidelity, structured synthetic datasets for testing and experimentation.*
+- **Tech Stack:** `Google Gemini API` • `Python` • `FastAPI` • `Generative AI`
+- **Key Features:**
+  - Automated synthetic dataset generation based on natural language prompts.
+  - Dynamic schema validation, customizable data distributions, and multi-format export (JSON/CSV).
 
-Synthetic dataset generation
-Custom data structures
-AI-assisted data generation
-Downloadable datasets
+---
 
-👩‍🏫 Avatar Tutor
+### 👩‍🏫 4. [Avatar Tutor — Interactive Voice AI Educator](https://github.com/Ishakarnawat)
+> *Interactive AI teaching companion combining real-time speech recognition, conversational reasoning, and natural voice synthesis.*
+- **Tech Stack:** `React` • `OpenAI Whisper` • `Google Gemini` • `Text-to-Speech (TTS)`
+- **Key Features:**
+  - Hands-free voice conversational learning loop with low-latency responses.
+  - Step-by-step concept explanations tailored dynamically to student queries.
 
-An AI-powered interactive teaching assistant combining voice recognition, conversational AI and text-to-speech.
+---
 
-Tech: React • OpenAI Whisper • Google Gemini • Text-to-Speech
+## 📈 GitHub Statistics
 
-Features:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishakarnawat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Isha's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishakarnawat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
 
-Voice interaction
-AI-powered explanations
-Interactive conversations
-Text-to-speech responses
-Educational assistance
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishakarnawat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
+---
 
-<!--
-**Ishakarnawat/Ishakarnawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📬 Let's Connect!
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Ishakarnawat)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+
+💬 *Always open to collaborating on innovative AI/ML and Full-Stack projects!*
+
+</div>
